@@ -1,1 +1,1 @@
-heyyyy
+Uploads directory, where the uploaded files in the server will be placed.
